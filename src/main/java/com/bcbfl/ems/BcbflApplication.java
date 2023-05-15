@@ -8,6 +8,7 @@ public class BcbflApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BcbflApplication.class, args);
+				System.out.println("Google");
 	}
 
 }
